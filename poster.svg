@@ -16,7 +16,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
-   sodipodi:docname="poster.svg">
+   sodipodi:docname="poster.svg"
+   inkscape:export-filename="poster.png"
+   inkscape:export-xdpi="84.666702"
+   inkscape:export-ydpi="84.666702">
   <defs
      id="defs2">
     <clipPath
@@ -2723,11 +2726,11 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0274457"
-     inkscape:cx="3410.5559"
-     inkscape:cy="377.97564"
+     inkscape:zoom="0.24397249"
+     inkscape:cx="1892.4545"
+     inkscape:cy="1853.666"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2990,7 +2993,7 @@
          id="tspan108"
          x="-75.723007"
          y="-587.53174"
-         style="stroke-width:0.26458332"></tspan></text>
+         style="stroke-width:0.26458332" /></text>
     <rect
        style="fill:#afc6e9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect177"
@@ -5128,7 +5131,7 @@
            height="214.72406"
            x="2790.0364"
            y="2594.9341" /></flowRegion><flowPara
-         id="flowPara3365"></flowPara></flowRoot>    <flowRoot
+         id="flowPara3365" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3369"
        style="fill:black;fill-opacity:1;stroke:none;font-family:'Noto Sans';font-style:normal;font-weight:normal;font-size:66.66666667px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'Noto Sans';font-stretch:normal;font-variant:normal"><flowRegion
@@ -5138,7 +5141,7 @@
            height="889.1778"
            x="150.03156"
            y="987.25647" /></flowRegion><flowPara
-         id="flowPara3375"></flowPara></flowRoot>    <flowRoot
+         id="flowPara3375" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3377"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.5;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -5164,7 +5167,7 @@
          id="tspan3385"
          x="224.70035"
          y="-374.59439"
-         style="stroke-width:0.26458332"></tspan></text>
+         style="stroke-width:0.26458332" /></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot3393"
@@ -5175,7 +5178,7 @@
            height="225.80267"
            x="1304.2051"
            y="2261.6836" /></flowRegion><flowPara
-         id="flowPara3399"></flowPara></flowRoot>    <flowRoot
+         id="flowPara3399" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4139"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none"
@@ -5236,12 +5239,12 @@
          id="flowPara8451">fig.show()</flowPara></flowRoot>    <image
        sodipodi:absref="/home/leo/talk/agu2019/coastlines.png"
        xlink:href="coastlines.png"
-       y="-341.50189"
-       x="512.07764"
-       id="image7981"
-       preserveAspectRatio="none"
+       width="432"
        height="62.118618"
-       width="432" />
+       preserveAspectRatio="none"
+       id="image7981"
+       x="512.07764"
+       y="-341.50189" />
     <flowRoot
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot7984"
@@ -5253,7 +5256,7 @@
            height="106.08833"
            width="100.2486"
            id="rect7988" /></flowRegion><flowPara
-         id="flowPara7990"></flowPara></flowRoot>    <flowRoot
+         id="flowPara7990" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4169"
        style="fill:black;fill-opacity:1;stroke:none;font-family:'Noto Sans';font-style:normal;font-weight:normal;font-size:80px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'Noto Sans';font-stretch:normal;font-variant:normal"><flowRegion
@@ -5263,15 +5266,15 @@
            height="115.62064"
            x="1395.7063"
            y="2768.365" /></flowRegion><flowPara
-         id="flowPara4175"></flowPara></flowRoot>    <image
+         id="flowPara4175" /></flowRoot>    <image
        sodipodi:absref="/home/leo/talk/agu2019/central-america.png"
        xlink:href="central-america.png"
-       width="432"
-       height="189.09373"
-       preserveAspectRatio="none"
-       id="image7909"
+       y="-8.0195818"
        x="41.648857"
-       y="-8.0195818" />
+       id="image7909"
+       preserveAspectRatio="none"
+       height="189.09373"
+       width="432" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.16666603px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -5282,7 +5285,7 @@
          id="tspan7914"
          x="-24.206469"
          y="-210.10294"
-         style="stroke-width:0.26458332"></tspan></text>
+         style="stroke-width:0.26458332" /></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot8213"
@@ -5315,15 +5318,15 @@
            height="512.0343"
            x="2931.8093"
            y="2801.3994" /></flowRegion><flowPara
-         id="flowPara8272"></flowPara></flowRoot>    <image
+         id="flowPara8272" /></flowRoot>    <image
        sodipodi:absref="/home/leo/talk/agu2019/japan-quakes.png"
        xlink:href="japan-quakes.png"
-       width="432"
-       height="191.25954"
-       preserveAspectRatio="none"
-       id="image8390"
+       y="-9.6811056"
        x="512.59949"
-       y="-9.6811056" />
+       id="image8390"
+       preserveAspectRatio="none"
+       height="191.25954"
+       width="432" />
     <rect
        style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect8686"
@@ -5342,7 +5345,7 @@
            height="787.32153"
            x="3774.1882"
            y="1014.7852" /></flowRegion><flowPara
-         id="flowPara8744"></flowPara></flowRoot>    <flowRoot
+         id="flowPara8744" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot8752"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -5385,12 +5388,12 @@
          style="fill:#1a1a1a">fig.show()</flowPara></flowRoot>    <image
        sodipodi:absref="/home/leo/talk/agu2019/topography.png"
        xlink:href="topography.png"
-       width="412"
-       height="197.40456"
-       preserveAspectRatio="none"
-       id="image8870"
+       y="-345.85757"
        x="993.47736"
-       y="-345.85757" />
+       id="image8870"
+       preserveAspectRatio="none"
+       height="197.40456"
+       width="412" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.69999981px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -5401,7 +5404,7 @@
          x="398.43341"
          y="-566.92206"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332"
-         id="tspan8883">¹Department of Earth, Ocean and Ecological Sciences, SOES, University of Liverpool    ²Department of Earth Sciences, SOEST, University of Hawai'i at Mānoa</tspan></text>
+         id="tspan8883">¹Department of Earth, Ocean and Ecological Sciences, University of Liverpool    ²Department of Earth Sciences, SOEST, University of Hawai'i at Mānoa</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot8948"
@@ -5454,7 +5457,7 @@
            height="132.36708"
            x="3727.6907"
            y="3355.6587" /></flowRegion><flowPara
-         id="flowPara8998"></flowPara></flowRoot>    <flowRoot
+         id="flowPara8998" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot9000"
        style="fill:black;fill-opacity:1;stroke:none;font-family:'Source Code Pro';font-style:normal;font-weight:normal;font-size:48.00000127px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'Source Code Pro';font-stretch:normal;font-variant:normal"><flowRegion
@@ -5464,7 +5467,7 @@
            height="120.68764"
            x="3717.958"
            y="3322.5669" /></flowRegion><flowPara
-         id="flowPara9006"></flowPara></flowRoot>    <flowRoot
+         id="flowPara9006" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot9008"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
