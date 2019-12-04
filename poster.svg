@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.32495077"
-     inkscape:cx="2474.7466"
-     inkscape:cy="1793.8808"
+     inkscape:cx="2677.7724"
+     inkscape:cy="2053.9973"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -37,7 +37,7 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     showguides="false"
+     showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-to-guides="false">
     <sodipodi:guide
@@ -69,20 +69,6 @@
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="497.99998,1136.6594"
-       orientation="1,0"
-       id="guide54"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
-    <sodipodi:guide
-       position="955.99997,1099.205"
-       orientation="1,0"
-       id="guide58"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
-    <sodipodi:guide
        position="83.050997,89.999997"
        orientation="0,1"
        id="guide88"
@@ -90,28 +76,28 @@
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="487.99998,1033.2527"
+       position="511.99998,1029.9957"
        orientation="1,0"
        id="guide90"
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(255,0,0)" />
     <sodipodi:guide
-       position="507.99998,1049.5372"
+       position="471.99998,1049.5372"
        orientation="1,0"
        id="guide92"
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(255,0,0)" />
     <sodipodi:guide
-       position="945.99997,951.83009"
+       position="943.99997,951.83009"
        orientation="1,0"
        id="guide94"
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(255,0,0)" />
     <sodipodi:guide
-       position="965.99997,921.70373"
+       position="983.99997,921.70373"
        orientation="1,0"
        id="guide98"
        inkscape:locked="false"
@@ -156,6 +142,13 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,733)">
+    <rect
+       style="fill:#214478;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.3829639;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect177-4"
+       width="1456"
+       height="1030"
+       x="1.1368684e-13"
+       y="-733" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:49.73623657px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.23313859"
@@ -238,23 +231,23 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.16666603px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="506.83728"
+       x="510.78714"
        y="-493.25012"
        id="text70"><tspan
          sodipodi:role="line"
          id="tspan68"
-         x="506.83728"
+         x="510.78714"
          y="-493.25012"
          style="stroke-width:0.26458332">Coastlines </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.16666603px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="964.57422"
+       x="982.56598"
        y="-493.02637"
        id="text74"><tspan
          sodipodi:role="line"
          id="tspan72"
-         x="964.57422"
+         x="982.56598"
          y="-493.02637"
          style="stroke-width:0.26458332">Grids and Earth relief data</tspan></text>
     <text
@@ -290,5 +283,44 @@
          x="959.97235"
          y="3.0644531"
          style="stroke-width:0.26458332">Where YOU can help</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.16666603px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-75.723007"
+       y="-606.79077"
+       id="text110"><tspan
+         sodipodi:role="line"
+         id="tspan108"
+         x="-75.723007"
+         y="-587.53174"
+         style="stroke-width:0.26458332"></tspan></text>
+    <rect
+       style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.98445261;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect124"
+       width="434.79663"
+       height="208.44183"
+       x="37.454391"
+       y="-470.81503" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.98445261;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect124-5"
+       width="434.79666"
+       height="208.44183"
+       x="510.51962"
+       y="-478.14307" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.98445261;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect124-9"
+       width="434.79666"
+       height="208.44183"
+       x="984.39911"
+       y="-478.14304" />
+    <rect
+       style="fill:#000000;fill-opacity:0.48134777;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect177"
+       width="1456"
+       height="90"
+       x="0"
+       y="207" />
   </g>
 </svg>
