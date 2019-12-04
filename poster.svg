@@ -2725,9 +2725,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0274457"
-     inkscape:cx="943.22712"
-     inkscape:cy="1743.2282"
+     inkscape:zoom="0.36325693"
+     inkscape:cx="2107.1985"
+     inkscape:cy="1882.2238"
      inkscape:document-units="mm"
      inkscape:current-layer="g7943"
      showgrid="false"
@@ -2737,7 +2737,7 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true"
      inkscape:snap-to-guides="false">
     <sodipodi:guide
@@ -5257,7 +5257,54 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#ffffff"
            id="flowPara4161" /><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#ffffff"
-           id="flowPara4163" /></flowRoot>    </g>
+           id="flowPara4163" /></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot7945"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(0.26458333,0,0,0.26458333,0,-734.05831)"><flowRegion
+           id="flowRegion7947"><rect
+             id="rect7949"
+             width="1635.1228"
+             height="642.36969"
+             x="1931.0022"
+             y="975.97101" /></flowRegion><flowPara
+           id="flowPara7953"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro'">fig = pygmt.Figure()</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro'"
+           id="flowPara7971">oahu = [-158.3, -157.6, 21.2, 21.8]</flowPara><flowPara
+           id="flowPara7955"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro'">for res in [&quot;c&quot;, &quot;l&quot;, &quot;i&quot;, &quot;h&quot;, &quot;f&quot;]:</flowPara><flowPara
+           id="flowPara7957"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro'">    fig.coast(resolution=res, shorelines=&quot;1p&quot;, </flowPara><flowPara
+           id="flowPara7959"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro'">              region=oahu, projection=&quot;M10c&quot;)</flowPara><flowPara
+           id="flowPara7961"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro'">    fig.shift_origin(xshift=&quot;10c&quot;)</flowPara><flowPara
+           id="flowPara7963"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro'">fig.savefig(&quot;coastlines.png&quot;)</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro'"
+           id="flowPara7967">fig.show()</flowPara><flowPara
+           id="flowPara7965"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro'" /></flowRoot>      <image
+         sodipodi:absref="/home/leo/talk/agu2019/coastlines.png"
+         xlink:href="coastlines.png"
+         width="432"
+         height="62.118618"
+         preserveAspectRatio="none"
+         id="image7981"
+         x="512.07764"
+         y="-313.45612" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot7984"
+         style="fill:black;fill-opacity:1;stroke:none;font-family:'Noto Sans';font-style:normal;font-weight:normal;font-size:80px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'Noto Sans';font-stretch:normal;font-variant:normal"><flowRegion
+           id="flowRegion7986"><rect
+             id="rect7988"
+             width="100.2486"
+             height="106.08833"
+             x="2708.6589"
+             y="1676.7379" /></flowRegion><flowPara
+           id="flowPara7990"></flowPara></flowRoot>    </g>
     <flowRoot
        xml:space="preserve"
        id="flowRoot4169"
