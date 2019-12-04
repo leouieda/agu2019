@@ -3,7 +3,7 @@
 [Leonardo Uieda](https://leouieda.com/)<sup>1,2</sup> and
 [Paul Wessel](http://www.soest.hawaii.edu/wessel/)<sup>2</sup>
 
-> <sup>2</sup>Department of Earth, Ocean and Ecological Sciences, School of Environmental Sciences, University of Liverpool, UK<br>
+> <sup>1</sup>Department of Earth, Ocean and Ecological Sciences, School of Environmental Sciences, University of Liverpool, UK<br>
 > <sup>2</sup>Department of Earth Sciences, SOEST, University of Hawai'i at Mānoa, USA<br>
 
 Poster presented at the AGU 2019 Fall Meeting.
@@ -14,7 +14,7 @@ Poster presented at the AGU 2019 Fall Meeting.
 |Abstract|[NS21B-0813](https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/571307)|
 |When|Tuesday, 10 December 2019 / 8:00 - 12:20|
 |Room|Moscone South - Poster Hall|
-|Poster|doi:[TBD](https://doi.org/TBD)|
+|Poster|doi:[10.6084/m9.figshare.11320280](https://doi.org/10.6084/m9.figshare.11320280)|
 
 ![A low resolution preview of the poster](poster.jpg)
 
@@ -41,7 +41,8 @@ learned during its implementation.
 
 ## Notes
 
-The poster was made entirely on Inkscape. The font is XXX.
+The poster was made entirely on Inkscape. The fonts are Noto Sans and Source
+Code Pro.
 
 ## License
 
