@@ -1,0 +1,17 @@
+name: agu2019
+channels:
+    - conda-forge
+    - defaults
+dependencies:
+    - python=3.7.3
+    - pip=19.3.1
+    - gmt=6.0.0
+    - numpy=1.17.3
+    - pandas=0.25.3
+    - xarray=0.14.1
+    - netCDF4=1.5.3
+    - packaging=19.2
+    - jupyter=1.0.0
+    - jupyterlab=1.2.3
+    - pip:
+        - https://github.com/GenericMappingTools/pygmt/archive/a93363ef4e1aa0fd2eefcecdfd55767ed3e045ef.zip
