@@ -2725,9 +2725,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.36325693"
-     inkscape:cx="2026.3035"
-     inkscape:cy="1396.9106"
+     inkscape:zoom="0.72651385"
+     inkscape:cx="4143.0344"
+     inkscape:cy="2494.0099"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2824,20 +2824,6 @@
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(255,0,0)" />
-    <sodipodi:guide
-       position="54.999998,516.06132"
-       orientation="1,0"
-       id="guide8715"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
-    <sodipodi:guide
-       position="526.99998,567.56442"
-       orientation="1,0"
-       id="guide8717"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -2856,24 +2842,6 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,733)">
-    <rect
-       style="fill:#141414;fill-opacity:0.94117647;stroke:none;stroke-width:0.25850144;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4612-4-6"
-       width="432.60986"
-       height="181.69054"
-       x="512.29669"
-       y="-200.96761"
-       ry="0"
-       rx="0" />
-    <rect
-       style="fill:#141414;fill-opacity:0.94117647;stroke:none;stroke-width:0.25716013;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4612-4"
-       width="433.12488"
-       height="138.50111"
-       x="510.92743"
-       y="-480.67609"
-       ry="0"
-       rx="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:49.73623657px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.23313859"
@@ -2887,17 +2855,21 @@
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:49.73623276px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.23313859">PyGMT: Accessing the Generic Mapping Tools from Python</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7555569px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.75555611px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="40"
        y="-566.82916"
        id="text16"><tspan
          sodipodi:role="line"
-         id="tspan14"
          x="40"
          y="-566.82916"
-         style="stroke-width:0.26458332"><tspan
+         style="stroke-width:0.26458332"
+         id="tspan8873"><tspan
    style="font-weight:bold"
-   id="tspan52">Leonardo Uieda</tspan>¹ ² and Paul Wessel², with generous help from Wei Ji Leong and Dongdong Tian</tspan></text>
+   id="tspan52">Leonardo Uieda</tspan><tspan
+   id="tspan8895"
+   style="font-weight:normal;font-size:64.99999762%;baseline-shift:super">1,2</tspan> and Paul Wessel<tspan
+   style="font-size:64.99999762%;baseline-shift:super"
+   id="tspan8891">2</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.16666603px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -2946,12 +2918,12 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.16666603px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="40"
-       y="-222.18953"
+       y="-215.83961"
        id="text66"><tspan
          sodipodi:role="line"
          id="tspan64"
          x="40"
-         y="-222.18953"
+         y="-215.83961"
          style="stroke-width:0.26458332">The pygmt.Figure</tspan></text>
     <text
        xml:space="preserve"
@@ -2979,34 +2951,34 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.16666603px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="984.23535"
-       y="-114.52608"
+       y="-85.951088"
        id="text78"><tspan
          sodipodi:role="line"
          id="tspan76"
          x="984.23535"
-         y="-114.52608"
+         y="-85.951088"
          style="stroke-width:0.26458332">What we're working on</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.16666603px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="510.27551"
-       y="-221.65559"
+       y="-207.89729"
        id="text82"><tspan
          sodipodi:role="line"
          id="tspan80"
          x="510.27551"
-         y="-221.65559"
+         y="-207.89729"
          style="stroke-width:0.26458332">Plotting points</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.16666603px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="983.78491"
-       y="45.397789"
+       y="55.981125"
        id="text86"><tspan
          sodipodi:role="line"
          id="tspan84"
          x="983.78491"
-         y="45.397789"
+         y="55.981125"
          style="stroke-width:0.26458332">Where YOU can help</tspan></text>
     <text
        xml:space="preserve"
@@ -5203,75 +5175,68 @@
            height="225.80267"
            x="1304.2051"
            y="2261.6836" /></flowRegion><flowPara
-         id="flowPara3399"></flowPara></flowRoot>    <rect
-       style="fill:#141414;fill-opacity:0.94117647;stroke:none;stroke-width:0.2662859;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4612"
-       width="431.56326"
-       height="187.94417"
-       x="40.3195"
-       y="-199.21393"
-       ry="0"
-       rx="0" />
-    <flowRoot
+         id="flowPara3399"></flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4139"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,13.545652,-735.64582)"><flowRegion
-         id="flowRegion4141"><rect
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,0.31648516,-740.93746)"><flowRegion
+         id="flowRegion4141"
+         style="fill:#1a1a1a"><rect
            id="rect4143"
            width="1530.4119"
            height="988.5694"
            x="153.3754"
-           y="2077.0496" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#ffffff"
+           y="2077.0496"
+           style="fill:#1a1a1a" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#1a1a1a"
          id="flowPara8595">import pygmt</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#ffffff"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#1a1a1a"
          id="flowPara8657"># The Figure controls all plotting</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#ffffff"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#1a1a1a"
          id="flowPara8641">fig = pygmt.Figure()</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#ffffff"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#1a1a1a"
          id="flowPara8643">fig.basemap(region=[-100, -50, 5, 25], frame=True,</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#ffffff"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#1a1a1a"
          id="flowPara8645">            projection=&quot;M20c&quot;)</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#ffffff"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#1a1a1a"
          id="flowPara8647">fig.coast(shorelines=True)</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#ffffff"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#1a1a1a"
          id="flowPara8649"># savefig is the same as matplotlib</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#ffffff"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#1a1a1a"
          id="flowPara8651">fig.savefig(&quot;central-america.png&quot;)</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#ffffff"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#1a1a1a"
          id="flowPara8653"># Display the figure</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#ffffff"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#1a1a1a"
          id="flowPara8655">fig.show()</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,16.693035,-724.96046)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,1.8763677,-732.36884)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none"
        id="flowRoot7945"
        xml:space="preserve"><flowRegion
          id="flowRegion7947"
-         style="fill:#ffffff"><rect
+         style="fill:#1a1a1a"><rect
            y="975.97101"
            x="1931.0022"
            height="642.36969"
            width="1635.1228"
            id="rect7949"
-           style="fill:#ffffff" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#ffffff"
+           style="fill:#1a1a1a" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#1a1a1a"
          id="flowPara7965">oahu = [-158.3, -157.6, 21.2, 21.8]</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#ffffff"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#1a1a1a"
          id="flowPara8437">fig = pygmt.Figure()</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#ffffff"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#1a1a1a"
          id="flowPara8439">for r in [&quot;c&quot;, &quot;l&quot;, &quot;i&quot;, &quot;h&quot;, &quot;f&quot;]:</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#ffffff"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#1a1a1a"
          id="flowPara8441">    fig.coast(region=oahu, resolution=r, land=&quot;grey&quot;,</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#ffffff"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#1a1a1a"
          id="flowPara8445">              shorelines=&quot;2p&quot;, projection=&quot;M10c&quot;)</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#ffffff"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#1a1a1a"
          id="flowPara8449">    fig.shift_origin(xshift=&quot;10c&quot;)</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#ffffff"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#1a1a1a"
          id="flowPara8451">fig.show()</flowPara></flowRoot>    <image
        sodipodi:absref="/home/leo/talk/agu2019/coastlines.png"
        xlink:href="coastlines.png"
-       y="-321.92261"
+       y="-332.50592"
        x="512.07764"
        id="image7981"
        preserveAspectRatio="none"
@@ -5321,16 +5286,16 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot8213"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,14.81667,-745.69993)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,3.1750032,-738.29155)"><flowRegion
          id="flowRegion8215"
-         style="fill:#ffffff"><rect
+         style="fill:#1a1a1a"><rect
            id="rect8217"
            width="1629.7006"
            height="1267.6978"
            x="1936.6458"
            y="2103.5461"
-           style="fill:#ffffff" /></flowRegion><flowPara
+           style="fill:#1a1a1a" /></flowRegion><flowPara
          id="flowPara8239"># Load GMT example data to a pandas.DataFrame</flowPara><flowPara
          id="flowPara8362">data = pygmt.datasets.load_japan_quakes()</flowPara><flowPara
          id="flowPara8364">region = [115, 170, 32, 51]</flowPara><flowPara
@@ -5367,5 +5332,75 @@
        x="943.77832"
        y="-335.9946"
        ry="0.13698272" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8738"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:'Source Code Pro';font-style:normal;font-weight:normal;font-size:48.00000127px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'Source Code Pro';font-stretch:normal;font-variant:normal"><flowRegion
+         id="flowRegion8740"><rect
+           id="rect8742"
+           width="1525.0913"
+           height="787.32153"
+           x="3774.1882"
+           y="1014.7852" /></flowRegion><flowPara
+         id="flowPara8744"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8752"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,0,-733)"><flowRegion
+         id="flowRegion8754"><rect
+           id="rect8756"
+           width="1525.0913"
+           height="946.98816"
+           x="3765.9297"
+           y="1006.5266" /></flowRegion><flowPara
+         style="fill:#ffffff"
+         id="flowPara8809" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8842"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-12.170833,-741.57726)"><flowRegion
+         id="flowRegion8844"
+         style="fill:#1a1a1a"><rect
+           id="rect8846"
+           width="1558.1259"
+           height="849.26117"
+           x="3765.9297"
+           y="1013.4088"
+           style="fill:#1a1a1a" /></flowRegion><flowPara
+         id="flowPara8848"
+         style="fill:#1a1a1a"># Load GMT Earth relief data in a xarray.DataArray</flowPara><flowPara
+         style="fill:#1a1a1a"
+         id="flowPara8897">topo = pygmt.datasets.load_earth_relief(&quot;10m&quot;)</flowPara><flowPara
+         id="flowPara8850"
+         style="fill:#1a1a1a">fig = pygmt.Figure()</flowPara><flowPara
+         id="flowPara8852"
+         style="fill:#1a1a1a">fig.basemap(region=&quot;g&quot;, projection=&quot;N20c&quot;, frame=&quot;a&quot;)</flowPara><flowPara
+         id="flowPara8854"
+         style="fill:#1a1a1a">fig.grdimage(topo, cmap=&quot;geo&quot;)</flowPara><flowPara
+         id="flowPara8856"
+         style="fill:#1a1a1a">fig.colorbar(position=&quot;JCR+v&quot;, </flowPara><flowPara
+         id="flowPara8858"
+         style="fill:#1a1a1a">             frame=[&quot;x2000&quot;, &quot;y+lm&quot;])</flowPara><flowPara
+         id="flowPara8860"
+         style="fill:#1a1a1a">fig.show()</flowPara></flowRoot>    <image
+       sodipodi:absref="/home/leo/talk/agu2019/topography.png"
+       xlink:href="topography.png"
+       width="412"
+       height="197.40456"
+       preserveAspectRatio="none"
+       id="image8870"
+       x="993.47736"
+       y="-336.8616" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.69999981px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="398.43341"
+       y="-566.92206"
+       id="text8881"><tspan
+         sodipodi:role="line"
+         x="398.43341"
+         y="-566.92206"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';stroke-width:0.26458332"
+         id="tspan8883">¹Department of Earth, Ocean and Ecological Sciences, SOES, University of Liverpool    ²Department of Earth Sciences, SOEST, University of Hawai'i at Mānoa</tspan></text>
   </g>
 </svg>
