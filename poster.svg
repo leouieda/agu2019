@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="1456mm"
@@ -2704,6 +2705,18 @@
          offset="1"
          style="stop-opacity:1;stop-color:#c09a05" />
     </radialGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2658">
+      <rect
+         style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:#000000;stroke-width:0.00999515;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:9.75118065;stroke-opacity:1"
+         id="rect2660"
+         width="559.99286"
+         height="39.046291"
+         x="25.256308"
+         y="445.40738"
+         ry="0" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -2712,11 +2725,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.36325693"
-     inkscape:cx="2847.365"
-     inkscape:cy="2103.5282"
+     inkscape:zoom="1.0274457"
+     inkscape:cx="943.22712"
+     inkscape:cy="1743.2282"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g7943"
      showgrid="false"
      units="mm"
      inkscape:window-width="3200"
@@ -2901,12 +2914,12 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.16666603px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="40"
-       y="-211.07695"
+       y="-226.95197"
        id="text66"><tspan
          sodipodi:role="line"
          id="tspan64"
          x="40"
-         y="-211.07695"
+         y="-226.95197"
          style="stroke-width:0.26458332">The pygmt.Figure</tspan></text>
     <text
        xml:space="preserve"
@@ -2974,20 +2987,6 @@
          x="-75.723007"
          y="-587.53174"
          style="stroke-width:0.26458332"></tspan></text>
-    <rect
-       style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.98445261;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect124-5"
-       width="434.79666"
-       height="208.44183"
-       x="510.51962"
-       y="-478.14307" />
-    <rect
-       style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.98445261;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect124-9"
-       width="434.79666"
-       height="208.44183"
-       x="984.39911"
-       y="-478.14304" />
     <rect
        style="fill:#afc6e9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect177"
@@ -5172,5 +5171,122 @@
            height="225.80267"
            x="1304.2051"
            y="2261.6836" /></flowRegion><flowPara
-         id="flowPara3399"></flowPara></flowRoot>  </g>
+         id="flowPara3399"></flowPara></flowRoot>    <g
+       id="g7943"
+       transform="translate(0,4.2333335)">
+      <rect
+         rx="0"
+         ry="9.7393551"
+         y="-203.44727"
+         x="40.3195"
+         height="173.0676"
+         width="431.8208"
+         id="rect4612"
+         style="fill:#141414;fill-opacity:0.94117647;stroke:none;stroke-width:0.2662859;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         transform="matrix(0.77044011,0,0,1.0001788,21.122103,-667.98757)"
+         clip-path="url(#clipPath2658)"
+         rx="0"
+         ry="9.260417"
+         y="464.45724"
+         x="25.252747"
+         height="281.29001"
+         width="560"
+         id="rect4612-3"
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.29581746;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text2637"
+         y="-190.60765"
+         x="208.39043"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+           y="-190.60765"
+           x="208.39043"
+           id="tspan2635"
+           sodipodi:role="line">first-figure.py</tspan></text>
+      <g
+         transform="translate(-111.14658,-671.40397)"
+         id="g2696">
+        <circle
+           style="opacity:1;fill:#ff5555;fill-opacity:1;stroke-width:0.75009984"
+           id="path2662"
+           cx="568.5105"
+           cy="477.9567"
+           r="3" />
+        <circle
+           style="display:inline;opacity:1;fill:#338000;fill-opacity:1;stroke-width:0.75009984"
+           id="path2662-1"
+           cx="546.81458"
+           cy="477.9567"
+           r="3" />
+        <circle
+           style="display:inline;opacity:1;fill:#ffcc00;fill-opacity:1;stroke-width:0.75009984"
+           id="path2662-9"
+           cx="557.66254"
+           cy="477.9567"
+           r="3" />
+      </g>
+      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,14.074819,-722.94583)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot4139"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4141"><rect
+             y="2077.0496"
+             x="153.3754"
+             height="988.5694"
+             width="1530.4119"
+             id="rect4143" /></flowRegion><flowPara
+           id="flowPara4179"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#ffffff">import pygmt</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#ffffff"
+           id="flowPara4147">fig = pygmt.Figure()</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#ffffff"
+           id="flowPara4151">fig.basemap(region=[-100, -50, 5, 25], frame=True,</flowPara><flowPara
+           id="flowPara4177"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#ffffff">            projection=&quot;M20c&quot;)</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#ffffff"
+           id="flowPara4155">fig.coast(shorelines=True)</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#ffffff"
+           id="flowPara4157"># savefig is the same as matplotlib</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#ffffff"
+           id="flowPara4159">fig.savefig(&quot;central-america.png&quot;)</flowPara><flowPara
+           id="flowPara4167"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#ffffff">fig.show()</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#ffffff"
+           id="flowPara4161" /><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#ffffff"
+           id="flowPara4163" /></flowRoot>    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4169"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:'Noto Sans';font-style:normal;font-weight:normal;font-size:80px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'Noto Sans';font-stretch:normal;font-variant:normal"><flowRegion
+         id="flowRegion4171"><rect
+           id="rect4173"
+           width="125.2557"
+           height="115.62064"
+           x="1395.7063"
+           y="2768.365" /></flowRegion><flowPara
+         id="flowPara4175"></flowPara></flowRoot>    <image
+       sodipodi:absref="/home/leo/talk/agu2019/central-america.png"
+       xlink:href="central-america.png"
+       width="432"
+       height="189.09373"
+       preserveAspectRatio="none"
+       id="image7909"
+       x="41.648857"
+       y="0.97625118" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.16666603px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-24.206469"
+       y="-229.36195"
+       id="text7916"><tspan
+         sodipodi:role="line"
+         id="tspan7914"
+         x="-24.206469"
+         y="-210.10294"
+         style="stroke-width:0.26458332"></tspan></text>
+  </g>
 </svg>
