@@ -2725,9 +2725,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.51372287"
-     inkscape:cx="2643.217"
-     inkscape:cy="2145.8623"
+     inkscape:zoom="0.36325693"
+     inkscape:cx="2026.3035"
+     inkscape:cy="1396.9106"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2824,6 +2824,20 @@
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(255,0,0)" />
+    <sodipodi:guide
+       position="54.999998,516.06132"
+       orientation="1,0"
+       id="guide8715"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="526.99998,567.56442"
+       orientation="1,0"
+       id="guide8717"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -2843,67 +2857,23 @@
      id="layer1"
      transform="translate(0,733)">
     <rect
-       style="fill:#141414;fill-opacity:0.94117647;stroke:none;stroke-width:0.2662859;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#141414;fill-opacity:0.94117647;stroke:none;stroke-width:0.25850144;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4612-4-6"
        width="432.60986"
-       height="192.7981"
+       height="181.69054"
        x="512.29669"
-       y="-206.2592"
-       ry="9.7393551"
+       y="-200.96761"
+       ry="0"
        rx="0" />
-    <g
-       id="g2696-6-2"
-       transform="translate(365.43424,-673.2822)">
-      <circle
-         r="3"
-         cy="477.9567"
-         cx="568.5105"
-         id="path2662-2-8"
-         style="opacity:1;fill:#ff5555;fill-opacity:1;stroke-width:0.75009984" />
-      <circle
-         r="3"
-         cy="477.9567"
-         cx="546.81458"
-         id="path2662-1-5-4"
-         style="display:inline;opacity:1;fill:#338000;fill-opacity:1;stroke-width:0.75009984" />
-      <circle
-         r="3"
-         cy="477.9567"
-         cx="557.66254"
-         id="path2662-9-8-7"
-         style="display:inline;opacity:1;fill:#ffcc00;fill-opacity:1;stroke-width:0.75009984" />
-    </g>
     <rect
-       style="fill:#141414;fill-opacity:0.94117647;stroke:none;stroke-width:0.2662859;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#141414;fill-opacity:0.94117647;stroke:none;stroke-width:0.25716013;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4612-4"
        width="433.12488"
-       height="148.5054"
+       height="138.50111"
        x="510.92743"
        y="-480.67609"
-       ry="9.7393551"
+       ry="0"
        rx="0" />
-    <g
-       id="g2696-6"
-       transform="translate(359.46138,-948.63273)">
-      <circle
-         r="3"
-         cy="477.9567"
-         cx="568.5105"
-         id="path2662-2"
-         style="opacity:1;fill:#ff5555;fill-opacity:1;stroke-width:0.75009984" />
-      <circle
-         r="3"
-         cy="477.9567"
-         cx="546.81458"
-         id="path2662-1-5"
-         style="display:inline;opacity:1;fill:#338000;fill-opacity:1;stroke-width:0.75009984" />
-      <circle
-         r="3"
-         cy="477.9567"
-         cx="557.66254"
-         id="path2662-9-8"
-         style="display:inline;opacity:1;fill:#ffcc00;fill-opacity:1;stroke-width:0.75009984" />
-    </g>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:49.73623657px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.23313859"
@@ -3009,34 +2979,34 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.16666603px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="984.23535"
-       y="-204.48448"
+       y="-114.52608"
        id="text78"><tspan
          sodipodi:role="line"
          id="tspan76"
          x="984.23535"
-         y="-204.48448"
+         y="-114.52608"
          style="stroke-width:0.26458332">What we're working on</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.16666603px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="510.27551"
-       y="-226.94719"
+       y="-221.65559"
        id="text82"><tspan
          sodipodi:role="line"
          id="tspan80"
          x="510.27551"
-         y="-226.94719"
+         y="-221.65559"
          style="stroke-width:0.26458332">Plotting points</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.16666603px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="983.78491"
-       y="3.0644531"
+       y="45.397789"
        id="text86"><tspan
          sodipodi:role="line"
          id="tspan84"
          x="983.78491"
-         y="3.0644531"
+         y="45.397789"
          style="stroke-width:0.26458332">Where YOU can help</tspan></text>
     <text
        xml:space="preserve"
@@ -5240,30 +5210,8 @@
        height="187.94417"
        x="40.3195"
        y="-199.21393"
-       ry="9.7393551"
+       ry="0"
        rx="0" />
-    <g
-       id="g2696"
-       transform="translate(-111.14658,-667.17064)">
-      <circle
-         r="3"
-         cy="477.9567"
-         cx="568.5105"
-         id="path2662"
-         style="opacity:1;fill:#ff5555;fill-opacity:1;stroke-width:0.75009984" />
-      <circle
-         r="3"
-         cy="477.9567"
-         cx="546.81458"
-         id="path2662-1"
-         style="display:inline;opacity:1;fill:#338000;fill-opacity:1;stroke-width:0.75009984" />
-      <circle
-         r="3"
-         cy="477.9567"
-         cx="557.66254"
-         id="path2662-9"
-         style="display:inline;opacity:1;fill:#ffcc00;fill-opacity:1;stroke-width:0.75009984" />
-    </g>
     <flowRoot
        xml:space="preserve"
        id="flowRoot4139"
@@ -5295,7 +5243,7 @@
          id="flowPara8653"># Display the figure</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#ffffff"
          id="flowPara8655">fig.show()</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,11.930532,-729.19382)"
+       transform="matrix(0.26458333,0,0,0.26458333,16.693035,-724.96046)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
        id="flowRoot7945"
        xml:space="preserve"><flowRegion
@@ -5318,14 +5266,12 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#ffffff"
          id="flowPara8445">              shorelines=&quot;2p&quot;, projection=&quot;M10c&quot;)</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#ffffff"
-         id="flowPara8447">    fig.shift_origin(xshift=&quot;10c&quot;)</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#ffffff"
-         id="flowPara8449">fig.savefig(&quot;coastlines.png&quot;)</flowPara><flowPara
+         id="flowPara8449">    fig.shift_origin(xshift=&quot;10c&quot;)</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';fill:#ffffff"
          id="flowPara8451">fig.show()</flowPara></flowRoot>    <image
        sodipodi:absref="/home/leo/talk/agu2019/coastlines.png"
        xlink:href="coastlines.png"
-       y="-323.51013"
+       y="-321.92261"
        x="512.07764"
        id="image7981"
        preserveAspectRatio="none"
@@ -5376,7 +5322,7 @@
        xml:space="preserve"
        id="flowRoot8213"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,8.9958338,-754.16665)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,14.81667,-745.69993)"><flowRegion
          id="flowRegion8215"
          style="fill:#ffffff"><rect
            id="rect8217"
@@ -5391,10 +5337,9 @@
          id="flowPara8366">fig = pygmt.Figure()</flowPara><flowPara
          id="flowPara8368">fig.coast(region=region, projection=&quot;M20c&quot;,</flowPara><flowPara
          id="flowPara8370">          frame=&quot;afg&quot;, land=&quot;black&quot;)</flowPara><flowPara
-         id="flowPara8372">fig.plot(x=data.longitude, y=data.latitude, style=&quot;cc&quot;,</flowPara><flowPara
+         id="flowPara8372">fig.plot(x=data.longitude, y=data.latitude, </flowPara><flowPara
          id="flowPara8374">         color=&quot;red&quot;, sizes=0.02*2**data.magnitude,</flowPara><flowPara
-         id="flowPara8376">         pen=&quot;1p,white&quot;)</flowPara><flowPara
-         id="flowPara8378">fig.savefig(&quot;japan-quakes.png&quot;)</flowPara><flowPara
+         id="flowPara8378">         pen=&quot;1p,white&quot;, style=&quot;cc&quot;)</flowPara><flowPara
          id="flowPara8380">fig.show()</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot8266"
