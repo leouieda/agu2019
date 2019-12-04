@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="70in"
-   height="46in"
-   viewBox="0 0 1778 1168.4"
+   width="1456mm"
+   height="1030mm"
+   viewBox="0 0 1455.9999 1030"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
@@ -25,18 +25,120 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.0875"
-     inkscape:cx="2508.049"
-     inkscape:cy="1793.0427"
+     inkscape:zoom="0.32495077"
+     inkscape:cx="2474.7466"
+     inkscape:cy="1793.8808"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     units="in"
-     inkscape:window-width="1920"
-     inkscape:window-height="1080"
+     units="mm"
+     inkscape:window-width="3200"
+     inkscape:window-height="1800"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="0" />
+     inkscape:window-maximized="0"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:snap-to-guides="false">
+    <sodipodi:guide
+       position="0,39.999999"
+       orientation="0,1"
+       id="guide11"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="1416,788.97962"
+       orientation="1,0"
+       id="guide13"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="1777.9999,989.99997"
+       orientation="0,1"
+       id="guide15"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="39.999999,1168.4"
+       orientation="1,0"
+       id="guide17"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="497.99998,1136.6594"
+       orientation="1,0"
+       id="guide54"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="955.99997,1099.205"
+       orientation="1,0"
+       id="guide58"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="83.050997,89.999997"
+       orientation="0,1"
+       id="guide88"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="487.99998,1033.2527"
+       orientation="1,0"
+       id="guide90"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(255,0,0)" />
+    <sodipodi:guide
+       position="507.99998,1049.5372"
+       orientation="1,0"
+       id="guide92"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(255,0,0)" />
+    <sodipodi:guide
+       position="945.99997,951.83009"
+       orientation="1,0"
+       id="guide94"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(255,0,0)" />
+    <sodipodi:guide
+       position="965.99997,921.70373"
+       orientation="1,0"
+       id="guide98"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(255,0,0)" />
+    <sodipodi:guide
+       position="-13.84184,856.99997"
+       orientation="0,1"
+       id="guide102"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="144.9322,806.99997"
+       orientation="0,1"
+       id="guide104"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(255,0,0)" />
+    <sodipodi:guide
+       position="171.80165,105"
+       orientation="0,1"
+       id="guide106"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(255,0,0)" />
+  </sodipodi:namedview>
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -53,5 +155,140 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,871.39996)" />
+     transform="translate(0,733)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:49.73623657px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.23313859"
+       x="35.587208"
+       y="-615.87653"
+       id="text21"><tspan
+         sodipodi:role="line"
+         id="tspan19"
+         x="35.587208"
+         y="-615.87653"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:49.73623276px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.23313859">PyGMT: Accessing the Generic Mapping Tools from Python</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7555569px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="40"
+       y="-566.82916"
+       id="text16"><tspan
+         sodipodi:role="line"
+         id="tspan14"
+         x="40"
+         y="-566.82916"
+         style="stroke-width:0.26458332"><tspan
+   style="font-weight:bold"
+   id="tspan52">Leonardo Uieda</tspan>¹ ² and Paul Wessel², with generous help from Wei Ji Leong and Dongdong Tian</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.16666603px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="433.16818"
+       y="-598.6485"
+       id="text20"><tspan
+         sodipodi:role="line"
+         id="tspan18"
+         x="433.16818"
+         y="-579.38947"
+         style="stroke-width:0.26458332" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.16666603px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="385.44681"
+       y="-578.24988"
+       id="text24"><tspan
+         sodipodi:role="line"
+         x="385.44681"
+         y="-558.99084"
+         style="stroke-width:0.26458332"
+         id="tspan26" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.16666603px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="37.920589"
+       y="-677.63623"
+       id="text32"><tspan
+         sodipodi:role="line"
+         id="tspan30"
+         x="37.920589"
+         y="-677.63623"
+         style="stroke-width:0.26458332">NS21B-0813</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.16666603px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="38.797783"
+       y="-493.55554"
+       id="text62"><tspan
+         sodipodi:role="line"
+         id="tspan60"
+         x="38.797783"
+         y="-493.55554"
+         style="stroke-width:0.26458332">Overview</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.16666603px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="40"
+       y="-211.07695"
+       id="text66"><tspan
+         sodipodi:role="line"
+         id="tspan64"
+         x="40"
+         y="-211.07695"
+         style="stroke-width:0.26458332">The pygmt.Figure</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.16666603px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="506.83728"
+       y="-493.25012"
+       id="text70"><tspan
+         sodipodi:role="line"
+         id="tspan68"
+         x="506.83728"
+         y="-493.25012"
+         style="stroke-width:0.26458332">Coastlines </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.16666603px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="964.57422"
+       y="-493.02637"
+       id="text74"><tspan
+         sodipodi:role="line"
+         id="tspan72"
+         x="964.57422"
+         y="-493.02637"
+         style="stroke-width:0.26458332">Grids and Earth relief data</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.16666603px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="977.88531"
+       y="-222.47614"
+       id="text78"><tspan
+         sodipodi:role="line"
+         id="tspan76"
+         x="977.88531"
+         y="-222.47614"
+         style="stroke-width:0.26458332">What we're working on</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.16666603px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="534.94641"
+       y="-143.4962"
+       id="text82"><tspan
+         sodipodi:role="line"
+         id="tspan80"
+         x="534.94641"
+         y="-143.4962"
+         style="stroke-width:0.26458332">Plotting points</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.16666603px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="959.97235"
+       y="3.0644531"
+       id="text86"><tspan
+         sodipodi:role="line"
+         id="tspan84"
+         x="959.97235"
+         y="3.0644531"
+         style="stroke-width:0.26458332">Where YOU can help</tspan></text>
+  </g>
 </svg>
