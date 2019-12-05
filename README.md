@@ -15,7 +15,7 @@ Poster presented at the AGU 2019 Fall Meeting.
 |When|Tuesday, 10 December 2019 / 8:00 - 12:20|
 |Room|Moscone South - Poster Hall|
 |Poster|doi:[10.6084/m9.figshare.11320280](https://doi.org/10.6084/m9.figshare.11320280)|
-|Try the code|Run it on Binder: [agu2019.pygmt.org](http://agu2019.pygmt.org)|
+|Try it online|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leouieda/agu2019/master?filepath=examples.ipynb)|
 
 ![A low resolution preview of the poster](poster.jpg)
 
@@ -44,6 +44,10 @@ learned during its implementation.
 
 The poster was made entirely on Inkscape. The fonts are Noto Sans and Source
 Code Pro.
+
+The QR codes were generated using [qrencode](https://github.com/fukuchi/libqrencode):
+
+    qrencode -t EPS -o qrcode.eps URL
 
 ## License
 
