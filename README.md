@@ -15,6 +15,7 @@ Poster presented at the AGU 2019 Fall Meeting.
 |When|Tuesday, 10 December 2019 / 8:00 - 12:20|
 |Room|Moscone South - Poster Hall|
 |Poster|doi:[10.6084/m9.figshare.11320280](https://doi.org/10.6084/m9.figshare.11320280)|
+|Try the code|Run it on Binder: [agu2019.pygmt.org](http://agu2019.pygmt.org)|
 
 ![A low resolution preview of the poster](poster.jpg)
 
